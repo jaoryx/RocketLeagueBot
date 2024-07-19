@@ -13,6 +13,7 @@ A Discord bot made for Rocket League players with auto rank role updaters and tw
 ## Setup
 You will need to create a bot at the [Discord Developer Portal](https://discord.com/developers/applications).<br>
 Setup the config.json and then launch run.bat. This will install the required packages, deploy your commands for your server and launch the bot afterwards.
+For the logo, name and footer of the embeds that are sent, you can change those by editing the CreateEmbed function in the file modules/functions.js.
 
 ## Questions/Suggestions/Bug Reports
 **Join [the official Discord](https://discord.gg/6M9hY3gtxW) to report bugs or ask for suggestions**.<br>
